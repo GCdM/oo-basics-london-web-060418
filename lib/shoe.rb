@@ -8,7 +8,7 @@ class Shoe
   end
   
   def cobble
-    @condition = "New"
-    puts "Shoe has been repaired"
+    @condition = "new"
+    puts "Your shoe is as good as new!"
   end
 end
